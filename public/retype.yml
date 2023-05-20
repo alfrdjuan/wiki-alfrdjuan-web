@@ -5,7 +5,9 @@ branding:
   title: Jun's library
   label: Wiki
 links:
-- text: About me
+- text: My websites
   link: https://alfrdjuan.com
+- text: LinkedIn
+  link: https://www.linkedin.com/in/alfrdjuan/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
